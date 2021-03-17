@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Friend , editing linux4 repositroy file called as 1.ttx
+=======
+hello i am file1
+>>>>>>> f26a19b723606e3016fdc002bb98aae0ff716523
